@@ -1,0 +1,6 @@
+{
+  "BOX": "rhel7.5"
+  "HD_SIZE": "50GB"
+  "ANSIBLE_VERSION": "2.6",
+  "OCP_RELEASE": "3.11"
+}
